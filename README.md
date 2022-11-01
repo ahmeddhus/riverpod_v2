@@ -1,4 +1,4 @@
-# riverpod_v2
+# riverpod_v2_demo_app
 
 A new Flutter project to play with Riverpod v2
 
